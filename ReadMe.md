@@ -1,5 +1,38 @@
-# 💫 About Me:
-# Hi, I'm Jamal Hashim 👋<br><br>### 💻 Full Stack Developer | B.Tech CSE Student<br><br>I'm **Jamal Hashim**, currently pursuing my **B.Tech in Computer Science and Engineering (CSE) at ITM College, Lucknow**. I'm a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.<br><br>🚀 I love turning ideas into real-world projects, learning new technologies, and solving problems through code. I'm continuously improving my development skills and exploring new opportunities to grow as a software developer.<br><br>### 🛠️ Tech Stack<br>- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS<br>- **Backend:** PHP, Node.js, Express.js<br>- **Database:** MySQL, MongoDB<br>- **Tools:** Git, GitHub, VS Code<br><br>### 🎯 My Goals<br>- Build scalable and impactful web applications.<br>- Strengthen my full-stack development and problem-solving skills.<br>- Contribute to open-source projects.<br>- Collaborate with developers and work on exciting real-world projects.<br><br>### 🤝 Let's Connect<br>I'm always open to collaborating on projects, sharing ideas, and connecting with fellow developers.<br><br>**Keep learning, keep building, and keep growing! 🚀**<br>
+💫 About Me:
+
+Hi, I'm Jamal Hashim 👋
+
+💻 Full Stack Developer | B.Tech CSE Student
+
+I'm Jamal Hashim, currently pursuing my B.Tech in Computer Science and Engineering (CSE) at ITM College, Lucknow. I'm a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.
+
+🚀 I love turning ideas into real-world projects, learning new technologies, and solving problems through code. I'm continuously improving my development skills and exploring new opportunities to grow as a software developer.
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+
+Backend: PHP, Node.js, Express.js
+
+Database: MySQL, MongoDB
+
+Tools: Git, GitHub, VS Code
+
+🎯 My Goals
+
+Build scalable and impactful web applications.
+
+Strengthen my full-stack development and problem-solving skills.
+
+Contribute to open-source projects.
+
+Collaborate with developers and work on exciting real-world projects.
+
+🤝 Let's Connect
+
+I'm always open to collaborating on projects, sharing ideas, and connecting with fellow developers.
+
+Keep learning, keep building, and keep growing! 🚀
 
 
 ## 🌐 Socials:
